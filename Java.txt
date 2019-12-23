@@ -2,3 +2,6 @@ Java Introduction, Features and Software requirement
 OOPS
 Data type
 Variables
+Array
+Collection
+Exception
