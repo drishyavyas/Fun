@@ -1,4 +1,4 @@
-Java Intto, Features and Software requirement
+Java Introduction, Features and Software requirement
 OOPS
 Data type
-Variabled
+Variables
